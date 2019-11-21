@@ -13,7 +13,7 @@ php artisan  key:generate
 
 Now you are ready to go.
 
-Regards, Nathalia Italiano, Jason Carvajal, Manuela Grajales y N.
+Regards, Nathalia Italiano, Jason Carvajal, Manuela Grajales y Nuria Puig.
 
 
 
